@@ -1,0 +1,4 @@
+*.dbsqlite
+/core/migrations/
+/media/
+*/__pycache__/
